@@ -2,6 +2,7 @@
   "name": "database-url-to-yaml",
   "version": "2.0.2",
   "description": "A script to convert database urls into YAML format",
+  "repository": "launchpadlab/database-url-to-yaml",
   "bin": "main.js",
   "scripts": {
     "start": "node main.js"
